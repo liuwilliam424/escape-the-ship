@@ -9,6 +9,8 @@ Clone the repository:
 git clone <repository_url>
 cd <repository_directory>
 pip install pygame
-python main.py
-'''
+python main.py'''
+
+
+
 *repository url is the url at the top of this page
